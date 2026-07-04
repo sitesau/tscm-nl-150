@@ -1,0 +1,17 @@
+{
+  "wheel_id": 60,
+  "slug": "tscm-nl-150",
+  "project": "seo-company-melbourne",
+  "parent_t1_ref": "tscm-nl-001",
+  "node_role": "buffer",
+  "money_target": "theseocompanymelbourne.com.au",
+  "primary_kw": "seo company melbourne",
+  "intended_url": "https://seo-company-melbourne.pages.dev/",
+  "links": [
+    {
+      "target_url": "https://seo-company-melbourne-guide.netlify.app",
+      "anchor": "seo company melbourne",
+      "rel": "follow"
+    }
+  ]
+}
